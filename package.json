@@ -2,7 +2,7 @@
   "author": "Blake Miner <miner.blake@gmail.com> (http://www.blakeminer.com)",
   "name": "connect-request-timeout",
   "description": "Request timeout middleware for Express/Connect",
-  "keywords": ["connect", "express", "request", "timeout", "response", "setTimeout"]
+  "keywords": ["connect", "express", "request", "timeout", "response", "setTimeout"],
   "version": "0.1.1",
   "repository": {
     "type": "git",
