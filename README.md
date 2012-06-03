@@ -3,6 +3,8 @@ connect-request-timeout
 
 Request timeout middleware for Express/Connect
 
+An alternative to [connect-timeout](https://github.com/LearnBoost/connect-timeout)
+
 Install
 -------
 
