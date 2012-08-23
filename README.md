@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/bminer/connect-request-timeout.png)](http://travis-ci.org/bminer/connect-request-timeout)
 connect-request-timeout
 =======================
 
