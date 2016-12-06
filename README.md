@@ -3,7 +3,12 @@ connect-request-timeout
 
 Request timeout middleware for Express/Connect
 
-An alternative to [connect-timeout](https://github.com/LearnBoost/connect-timeout)
+An alternative to [connect-timeout](https://github.com/expressjs/timeout)
+
+DEPRECATION NOTICE
+------------------
+This library is no longer maintained.  Please consider using [connect-timeout](https://github.com/expressjs/timeout) instead.  Also, the `maxTimeout` option for this middleware is a little sloppy/buggy.
+
 
 Install
 -------
